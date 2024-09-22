@@ -8,7 +8,7 @@
 
   <meta name="copyright" content="">
 
-  <title>Find Doctors</title>
+  <title>Medi Hub</title>
 
   <link rel="stylesheet" href="../assets/css/maicons.css">
 
